@@ -4,6 +4,8 @@ Want to find out which Beverly Hills 90210 character is most like you? It's as s
 
 [Friend Finder - 90210](https://beverly-hills-friend-finder.herokuapp.com/).
 
+![](/app/images/90210.jpg)
+
 ### Technologies used
 1. HTML
 1. CSS
@@ -17,5 +19,5 @@ Want to find out which Beverly Hills 90210 character is most like you? It's as s
 1. From your command line, run `git clone git@github.com:soleman16/FriendFinder.git`
 1. Navigate into the FriendFinder directory: `cd FriendFinder`
 1. Type `node server.js`
-1. Open your favorite web brower and go to `http://localhost:8080`
+1. Open your favorite web browser and go to `http://localhost:8080`
 1. Have fun!
