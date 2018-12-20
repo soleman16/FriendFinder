@@ -1,8 +1,12 @@
 let express = require("express");
+let exphbs = require("express-handlebars");
 let app = express();
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+
+app.engine("handlebars", exphbs({ defaultLayout: "main" }));
+app.set("view engine", "handlebars");
 
 require("./app/routing/apiRoutes")(app);
 require("./app/routing/htmlRoutes")(app);
