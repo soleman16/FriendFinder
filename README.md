@@ -14,7 +14,6 @@ Want to find out which Beverly Hills 90210 character is most like you? It's as s
 1. Bootstrap
 
 ### How to run locally
-Of course! Some small setup steps first though:
 1. From your command line, run `git clone git@github.com:soleman16/FriendFinder.git`
 1. Navigate into the FriendFinder directory: `cd FriendFinder`
 1. Type `node server.js`
