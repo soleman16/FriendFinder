@@ -1,8 +1,6 @@
 # FriendFinder
 
-Want to find out which Beverly Hills 90210 character is most like you? It's as simple as answering 10 questions and you will be matched with your 90210 counterpart. To try it out, please click on the link below:
-
-[Friend Finder - 90210](https://beverly-hills-friend-finder.herokuapp.com/).
+Want to find out which Beverly Hills 90210 character is most like you? It's as simple as answering 10 questions and you will be matched with your 90210 counterpart. To try it out, please click on this link [Friend Finder - 90210](https://beverly-hills-friend-finder.herokuapp.com/).
 
 ![](/app/images/90210.jpg)
 
